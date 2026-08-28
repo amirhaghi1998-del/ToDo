@@ -19,8 +19,5 @@ Live:https://amirhaghi1998-del.github.io/ToDo/
 ## 🚀 Installation & Usage
 
 This project has zero dependencies and requires no build tools or server setup. To run it locally:
-
-1. Clone the repository or download the source files:
-   ```bash
   (https://amirhaghi1998-del.github.io/ToDo/)
 <img width="1366" height="768" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/e3768f83-3fcb-4315-8e54-38b3189d86be" />
