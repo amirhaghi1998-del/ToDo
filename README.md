@@ -23,3 +23,4 @@ This project has zero dependencies and requires no build tools or server setup. 
 1. Clone the repository or download the source files:
    ```bash
    [git clone https://github.com/your-username/task-list.git](https://amirhaghi1998-del.github.io/ToDo/)
+<img width="1366" height="768" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/e3768f83-3fcb-4315-8e54-38b3189d86be" />
